@@ -8,7 +8,7 @@ The following instructions are meant for a bash terminal on a Linux machine. If 
 To clone the repo, you can simply run:
 
 ```bash
-git clone https://github.com/vihanga-bandara/g9-ss.git
+git clone https://github.com/siasefid/SoftwareSecurity-tatou
 ```
 
 ### Run the tests
